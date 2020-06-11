@@ -1,4 +1,4 @@
-# change your MAC
+# Change your MAC address
 Change your MAC address in kali linux 
 Type -h or --help for more info
 
@@ -7,7 +7,7 @@ Type -h or --help for more info
 -m or --mac ===> Your new MAC address you want to change to </br>
 -rd of --random ===> Create and Change your interface to random MAC address </br>
 
-# how to use
+# How to use
 git clone https://github.com/Bosshj/changeyourMAC.git </br>
 sudo python3 ./MACchanger.py -i "interface" -m "New MAC address" </br>
 ======= or ======= </br>
