@@ -1,2 +1,2 @@
-# changeyourMAC
-Changr your MAC address kali linux
+# change your MAC
+Change your MAC address in kali linux 
