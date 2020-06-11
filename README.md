@@ -9,6 +9,6 @@ Type -h or --help for more info
 
 # how to use
 git clone https://github.com/Bosshj/changeyourMAC.git </br>
-sudo python3 ./MACchanger.py -i <interface> -m <New MAC address> </br>
+sudo python3 ./MACchanger.py -i "interface" -m "New MAC address" </br>
 ======= or ======= </br>
-sudo python3 ./MACchanger.py -i <interface> -rd y </br>
+sudo python3 ./MACchanger.py -i "interface" -rd y </br>
